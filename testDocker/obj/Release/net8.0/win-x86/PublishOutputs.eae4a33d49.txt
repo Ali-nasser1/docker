@@ -1,0 +1,17 @@
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\testDocker.exe
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\testDocker.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\testDocker.deps.json
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\testDocker.runtimeconfig.json
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\testDocker.pdb
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Pipelines.Sockets.Unofficial.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\StackExchange.Redis.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\popa0\OneDrive\Desktop\apis\testDocker\testDocker\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,14 @@
+services:
+  testdocker:
+    image: ${DOCKER_REGISTRY-}testdocker
+    build:
+      context: .
+      dockerfile: testDocker/Dockerfile
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+  RedisCache:
+    image: redis:latest
+    restart: always
+    ports:
+     - "6379:6379"
